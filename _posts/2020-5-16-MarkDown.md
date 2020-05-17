@@ -1,17 +1,5 @@
 ---
 layout: post
-title: "程序员中的梦想家"
-subtitle: "Dreamers among programmers"
-author: "Hux"
-header-img: "img/post-bg-dreamer.jpg"
-header-mask: 0.4
-tags:
-  - Facebook
-  - 生活
----
-
----
-layout: post
 title: "MarkDown 文档"
 subtitle: "MarkDown documantry"
 author: "Qiansu"
@@ -44,7 +32,7 @@ tags:
 - 列表
    1. 列表
 
-title|title 
+title|title
 --|:
 content|content
 
@@ -59,5 +47,3 @@ function fun(){
 }
 fun();
 ```
-
-
