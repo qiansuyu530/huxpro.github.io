@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: yuqiansu20000319@gmail.com
 description: "The Mysterious Island"
 keyword: ""
-url: ""              # your host, for absolute URL
+url: "https://qiansuyu530.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,7 +15,7 @@ future: true
 RSS: false
 weibo_username: qyu165
 zhihu_username:
-github_username:   qiansuyu530
+github_username: qiansuyu530
 twitter_username:
 steam_username: qyu165
 #facebook_username:  huxpro
