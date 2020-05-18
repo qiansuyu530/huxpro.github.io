@@ -4,7 +4,7 @@ title: "Leetcode Day1"
 subtitle: ''
 author: "Qiansu"
 header-style: text
-header-image: "img/code.jpg"
+header-image: "img/post-bg-halting.jpg"
 tags:
   - Leetcode
 ---
