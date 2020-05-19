@@ -67,11 +67,11 @@ Python solution
 ```python
 
 class solution:
-def is Palindrome(self, x :int) -> bool:
+def isPalindrome(self, x :int) -> bool:
   return (str(x) == str(x)[:: -1])
 ```
 
-Java solution 
+Java solution
 
 ```java
 
