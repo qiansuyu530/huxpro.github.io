@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "Leet Code Day 2"
-date:       2016-11-20
+date:       2020-5-19
 author:     "Qiansu"
 tags:
-    - leetcode
+    - Leetcode
 ---
 
 ## Reverse integer
